@@ -1,0 +1,22 @@
+/*body {
+    background: white url("images/background.gif") no-repeat right bottom;
+}*/
+body {
+    background-image: url("images/images.jpeg");
+    background-repeat:no-repeat;
+    background-size: 1840px 980px;
+}
+#headline1 {
+      background-image: url("images/Plant.jpeg");
+      background-repeat: no-repeat;
+      background-position: left top;
+      padding-top:250px;
+      margin-bottom:10px;
+}
+#headline2 {
+      background-image: url("images/farmer.jpeg");
+      background-repeat: no-repeat;
+      background-position: right top;
+      padding-top:200px;
+      margin-bottom:10px;
+   }
